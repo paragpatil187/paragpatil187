@@ -34,7 +34,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/parag-patil-43b19a140/" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/linkedin.png" alt="https://www.linkedin.com/in/parag-patil-43b19a140/" height="50" width="50" /></a>
 <a href="mailto:paragpatil187@gmail.com" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/gmail.png" alt="mailto:paragpatil187@gmail.com" height="50" width="50" /></a>
-<a href="https://twitter.com/bhavesh__patil" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/twitter.png" alt="https://twitter.com/bhavesh__patil" height="50" width=50" /></a>
+<a href="https://twitter.com/paragpatil187" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/twitter.png" alt="https://twitter.com/paragpatil187" height="50" width=50" /></a>
 </p>
 
  ### 🛠 &nbsp;Languages and Tools
