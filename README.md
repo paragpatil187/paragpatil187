@@ -21,7 +21,7 @@
 
 - 👉 Visit my **[Portfolio](https://parag-portfolio.netlify.app/)**
 
-- 👉 See my Experience **[Resume](https://drive.google.com/file/d/1L6vMMS2YjsVFPsnDvMndnnnC5tSayr7U/view?usp=sharing)**
+- 👉 See my Experience **[Resume](https://drive.google.com/drive/folders/1iltpIpqR9NFe-ak4HG3IpFqZVgBgtdbd?usp=sharing)**
 
 - 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/parag-patil-43b19a140/)**
 
