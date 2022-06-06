@@ -19,7 +19,7 @@
 
 - 👨‍💻 I love to code & solve problems.
 
-- 👉 Visit my **[Portfolio](https://parag-portfolio.netlify.app/)**
+- 👉 Visit my **[Portfolio](https://parag-portfolio.netlify.app/ )**
 
 - 👉 See my Experience **[Resume](https://drive.google.com/drive/folders/1iltpIpqR9NFe-ak4HG3IpFqZVgBgtdbd?usp=sharing)**
 
