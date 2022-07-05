@@ -50,4 +50,4 @@
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paragpatil187&theme=dark&hide_border=true&layout=compact" width = 400 />
 </p>
  
- <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
+ 
