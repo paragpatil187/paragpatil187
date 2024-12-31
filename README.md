@@ -3,7 +3,7 @@
 <p align="center">
 
  <p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
+<img src="https://img.shields.io/badge/Age-27-blue" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web%20Development%20-%20blue" />
   <img src="https://img.shields.io/badge/Lives-Navi%20Mumbai%20Maharashtra%20-%20blue" />
   <img src="https://img.shields.io/badge/Languages-Marathi,%20Hindi%20%26%20English-blue" />
